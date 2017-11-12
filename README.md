@@ -4,11 +4,11 @@
 
 **_Comandos:_**
 
-[**/reglas**](#) - Reglamento del grupo.
+[**/reglas**](http://telegra.ph/Huayra-GNULinux-10-28) - Reglamento del grupo.
 
-[**/foros**](#) - Foros de la comunidad Huayra.
+[**/foros**](http://foros.comunidadhuayra.org) - Foros de la comunidad Huayra.
 
-[**/images**](#) - Todas las versiones de Huayra.
+[**/images**](http://telegra.ph/Huayra-GNULinux---Imágenes-11-11) - Todas las versiones de Huayra.
 ____
 
 (C) 2017 Humboldti
