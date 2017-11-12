@@ -1,12 +1,15 @@
 ![Huayra Bot](https://github.com/Humboldti/humboldti.github.io/blob/master/huayra_bot.png?raw=true)
 
-# Huayra Bot
+###Huayra Bot
 ___
 
-**Comandos:**
-  
+####Comandos
 
-* **_/reglas_** - Reglamento del grupo.
-* **_/foros_** - Foros de la comunidad Huayra.
-* **_/images_** - Todas las versiones de Huayra.
-_____
+[**/reglas**](#) - Reglamento del grupo.
+
+[**/foros**](#) - Foros de la comunidad Huayra.
+
+[**/images**](#) - Todas las versiones de Huayra.
+____
+
+(C) 2017 Humboldti
