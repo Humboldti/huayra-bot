@@ -1,7 +1,6 @@
 ![Huayra Bot](https://github.com/Humboldti/huayra_bot/blob/master/huayra_bot.png?raw=true)
 
 ## Huayra Bot
-___
 
 **_Comandos:_**
 
