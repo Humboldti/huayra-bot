@@ -1,9 +1,9 @@
 ![Huayra Bot](https://github.com/Humboldti/humboldti.github.io/blob/master/huayra_bot.png?raw=true)
 
-###Huayra Bot
+#Huayra Bot
 ___
 
-####Comandos
+**_Comandos:_**
 
 [**/reglas**](#) - Reglamento del grupo.
 
