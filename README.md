@@ -1,4 +1,4 @@
-![Huayra Bot](https://github.com/Humboldti/huayra_bot/blob/master/huayra_bot.png?raw=true)
+![Huayra Bot](https://github.com/Humboldti/huayra-bot/blob/master/huayra_bot.png?raw=true)
 
 ## Huayra Bot
 
