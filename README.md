@@ -11,4 +11,4 @@
 [**/images**](http://telegra.ph/Huayra-GNULinux---Imágenes-11-11) - Todas las versiones de Huayra.
 ____
 
-(C) 2017 Humboldti
+> Figueroa Lucas
